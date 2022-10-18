@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryamr2002
 - 👀 I’m interested in ... AI & ML
 - 🌱 I’m currently learning ...B.Tch/ Artificial Intelligence / Data Science / Machine Learning / SDE
-- 💞️ I’m looking to collaborate on ...with developers globally
+- 💞️ Love to collaborate on ...with developers globally
 - 📫 How to reach me ...
  suryamrsp.class1@gmail.com
 
