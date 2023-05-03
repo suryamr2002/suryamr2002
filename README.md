@@ -1,4 +1,4 @@
-# Hello, I'm Suryamr2002 👋
+# Hello, I'm SURYA  👋
 
 I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. I am also working towards developing my skills in Software Development Engineering.
 
