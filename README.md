@@ -1,14 +1,14 @@
 Hello, I'm Suryamr2002 👋
-I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. I am also working towards developing my skills in Software Development Engineering.
+I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. I am also working towards developing my skills in Software Development Engineering. <br>
 
-Interests 🌟
-I am primarily interested in the following areas:
+Interests 🌟 <br>
+I am primarily interested in the following areas: <br>
 
-Artificial Intelligence
+Artificial Intelligence 
 Machine Learning
 Deep Learning
 Natural Language Processing
-Computer Vision
+Computer Vision <br>
 Collaboration 💻
 I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.
 
