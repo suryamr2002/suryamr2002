@@ -6,16 +6,13 @@
 
 ###
 
-<h2 align="left">Hello, I'm SURYA 👋<br>I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. <br><br>Interests 🌟<br>I am primarily interested in the following areas:<br><br>-Artificial Intelligence<br>-Machine Learning<br>-Deep Learning<br>-Natural Language Processing<br>-Computer Vision<br><br>Collaboration 💻<br>I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.</h2>
+<h2 align="left">Hello, I'm SURYA 👋<br>I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. <br><br>Interests 🌟<br>I am primarily interested in the following areas:<br><br>-Artificial Intelligence<br>-Machine Learning<br>-Deep Learning<br>-Natural Language Processing<br>-Computer Vision<br><br>Collaboration 💻<br>I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.<br><br>Reach out: suryamrsp.class1@gmail.com</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/surya-m-r/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="suryamrsp.class1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
