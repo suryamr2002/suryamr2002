@@ -1,17 +1,52 @@
-# Hello, I'm SURYA  👋
+<h2 align="left">Hello, I'm SURYA 👋<br>I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. I am also working towards developing my skills in Software Development Engineering.<br><br>Interests 🌟<br>I am primarily interested in the following areas:<br><br>-Artificial Intelligence<br>-Machine Learning<br>-Deep Learning<br>-Natural Language Processing<br>-Computer Vision<br><br>Collaboration 💻<br>I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.</h2>
 
-I am a passionate learner and enthusiast in the field of Artificial Intelligence and Machine Learning. Currently, I am pursuing a B.Tech degree in Artificial Intelligence and Data Science. I am also working towards developing my skills in Software Development Engineering.
+###
 
-## Interests 🌟
-I am primarily interested in the following areas:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
+<div align="center">
+  <a href="https://www.linkedin.com/in/surya-m-r/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="suryamrsp.class1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-## Collaboration 💻
-I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.
+###
 
-## Contact 📫
-If you would like to get in touch with me, please feel free to send me an email at suryamrsp.class1@gmail.com. I am always open to discussing new ideas and projects.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
