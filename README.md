@@ -7,10 +7,10 @@
 <h2 align="left">Areas of Interest:</h2>
 
 - Artificial Intelligence
+- Data Science
 - Machine Learning
 - Deep Learning
-- Natural Language Processing
-- Computer Vision
+
 
 <h3>Collaboration 💻</h3>
 
