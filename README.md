@@ -1,28 +1,137 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" alt="Coding animation" />
   
-  <!-- <img src="https://streak-stats.demolab.com?user=suryamr2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamr2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  # 👋 Hi, I'm Surya M.R
+  
+  ### Production Data Scientist | Building AI Systems That Drive Business Impact
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/surya-m-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:suryamrsp.class1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <!-- <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a> -->
+  </p>
 </div>
 
-<h2 align="left">Areas of Interest:</h2>
+---
 
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Deep Learning
+## 🚀 About Me
 
+I'm a **Data Scientist** at **Kovai.co** with 2+ years of experience building **production ML systems** that solve real business problems. I don't just train models—I ship them to production, monitor them, and measure their impact.
 
-<h3>Collaboration 💻</h3>
+**What I've Built:**
+- 🤖 **RAG Chatbot** → Reduced support tickets by **46%** and saved **$150K/year** (89% accuracy)
+- 🎯 **PQL Scoring System** → Transformed messy product logs into revenue predictions using MLflow
+- 📊 **Recommendation Engine** → Achieved **12% engagement lift** through hybrid filtering
+- 🔮 **Churn Prediction Model** → Enabled proactive retention strategies with XGBoost
 
-I am always eager to collaborate with developers globally and contribute to exciting projects. If you have any ideas or projects that you think I might be interested in, please do not hesitate to reach out.
+**My Superpower:** Translating business problems into ML solutions that stakeholders actually use.
 
-If you have any questions, feel free to reach out to me at suryamrsp.class1@gmail.com.
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/surya-m-r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+## 💼 What I'm Working On
+
+🔭 **Currently:** Building production-grade LLM applications (RAG, vector search, agentic workflows)  
+🌱 **Learning:** Advanced MLOps patterns, causal inference, multi-cloud deployment  
+💡 **Exploring:** Model Context Protocol (MCP), AutoGen frameworks  
+
+---
+
+## 🛠️ Tech Stack
+```python
+skills = {
+    "Production ML": ["MLflow", "Azure ML", "Model Monitoring", "FAST-API", "A/B Testing"],
+    "LLM & AI": ["OpenAI API", "LangChain", "RAG", "Vector Search", "AutoGen"],
+    "ML Frameworks": ["scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
+    "Languages": ["Python", "R", "SQL", "NoSQL", "React (frontend)"],
+    "Cloud & Tools": ["Microsoft-Azure", "MongoDB", "Docker", "Git"],
+    "Data Viz": ["Grafana ", "Power BI", "Tableau", "Matplotlib", "Seaborn"],
+    "Specialties": ["RAG Pipelines", "Recommendation Systems", "Churn Modeling"]
+}
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryamr2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamr2002&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Programming gif" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryamr2002&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
+
+## 🏆 Featured Projects
+
+### 📈 [End-to-End Real-Time ML System with Full MLOps Pipeline](https://github.com/suryamr2002/Fraud-detection-MLops-with-CI-CD-integration)
+**Tech:** FAST-API, ML-Flow, Prometheus Metrics, Grafana , CI/CD Pipeline, Python, GridSearchCV, Feature Engineering  
+Production-ready fraud detection API with Kubernetes, auto-scaling, monitoring, and CI/CD
+
+**Impact:** Identified fraud transactions in large-volume customer transactions 1M+.
+
+---
+
+### 📈 [Customer Churn Prediction for Energy SMEs](https://github.com/suryamr2002/Customer-ChurnPrediction)
+**Tech:** XGBoost, Python, GridSearchCV, Feature Engineering  
+Developed predictive model achieving 82% recall in identifying high-risk churners through analysis of price sensitivity, usage patterns, and payment history.
+
+**Impact:** Enabled proactive retention strategies for high-value customer segments
+
+---
+
+### 🎯 [A/B Testing Framework](https://github.com/suryamr2002/Marketing-Campaign-A-B-Testing)
+**Tech:** Python, Statistical Analysis, Power Analysis  
+Designed end-to-end experimentation workflow with statistical rigor, power analysis, and variance reduction techniques (CUPED).
+
+**Impact:** Validated personalization strategies showing significant conversion lift
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [I Built an AI That Predicts Credit Card Defaults — Here’s What Shocked Me](https://medium.com/@SuryaMurugan/i-built-an-ai-that-predicts-credit-card-defaults-heres-what-shocked-me-1c4c43c212a9)
+- [🚀 Agentic AI vs Vibe Coding vs Coding APIs — What’s Shaping the Future of Development?](https://medium.com/@SuryaMurugan/agentic-ai-vs-vibe-coding-vs-coding-apis-whats-shaping-the-future-of-development-982d7414688f)
+<!-- BLOG-POST-LIST:END -->
+
+
+## 💬 Let's Connect!
+
+I'm always interested in:
+- 🤝 Collaborating on **production AI/ML/DL/DS projects**
+- 💡 Discussing **LLM applications** and **MLOps best practices**
+- 🎯 Exploring opportunities in **ML Engineering** and **Data Science**
+
+**Reach out:**
+- 📧 Email: suryamrsp.class1@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/surya-m-r](https://www.linkedin.com/in/surya-m-r/)
+
+---
+
+## 📌 Quick Metrics
+```text
+📊 Production ML Systems Deployed: 4+
+💰 Business Impact Generated: $150K+ in cost savings
+👥 Users Served: 10,000+
+📈 Models in Production: 5+
+🎯 SLA Performance: 100% (3-day turnaround)
+```
+
+---
+
+<div align="center">
+  
+### 🔥 "I don't just build models—I ship solutions that drive measurable business outcomes."
+
+  <img src="https://komarev.com/ghpvc/?username=suryamr2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/suryamr2002">suryamr2002</a> - Building the future, one model at a time!</i>
+</div>
