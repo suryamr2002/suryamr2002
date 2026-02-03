@@ -49,20 +49,17 @@ skills = {
 }
 ```
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryamr2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamr2002&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</div>
+<!-- <div align="center"> ## 📊 GitHub Stats --> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=suryamr2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamr2002&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" /> -->
+<!-- </div> -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryamr2002&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryamr2002&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
+<!-- </div> -->
 
----
 
 ## 🏆 Featured Projects
 
@@ -120,17 +117,6 @@ I'm always interested in:
 🎯 SLA Performance: 100% (3-day turnaround)
 ```
 
----
-
-<div align="center">
-  
-### 🔥 "I don't just build models—I ship solutions that drive measurable business outcomes."
-
-  <img src="https://komarev.com/ghpvc/?username=suryamr2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-</div>
-
----
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/suryamr2002">suryamr2002</a> - Building the future, one model at a time!</i>
