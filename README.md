@@ -18,20 +18,16 @@
 
 I'm a **Data Scientist** at **Kovai.co** with 2+ years of experience building **production ML systems** that solve real business problems. I don't just train models—I ship them to production, monitor them, and measure their impact.
 
-**What I've Built:**
-- 🤖 **RAG Chatbot** → Reduced support tickets by **46%** and saved **$150K/year** (89% accuracy)
-- 🎯 **PQL Scoring System** → Transformed messy product logs into revenue predictions using MLflow
+<!--**Noteable projects:**
+ - 🤖 **RAG Chatbot** → Optimized Pipeline,Reduced support tickets by **46%** and saved **$150K/year** (89% accuracy)
 - 📊 **Recommendation Engine** → Achieved **12% engagement lift** through hybrid filtering
-- 🔮 **Churn Prediction Model** → Enabled proactive retention strategies with XGBoost
-
-**My Superpower:** Translating business problems into ML solutions that stakeholders actually use.
-
+- 🔮 **Churn Prediction Model** → Enabled proactive retention strategies with XGBoost + MLflow
+-->
 ---
 
 ## 💼 What I'm Working On
 
-🔭 **Currently:** Building production-grade LLM applications (RAG, vector search, agentic workflows)  
-🌱 **Learning:** Advanced MLOps patterns, causal inference, multi-cloud deployment  
+🔭 **Currently:** Building production-grade LLM applications (RAG, vector search, Langchain, agentic workflows...)   
 💡 **Exploring:** Model Context Protocol (MCP), AutoGen frameworks  
 
 ---
@@ -40,10 +36,10 @@ I'm a **Data Scientist** at **Kovai.co** with 2+ years of experience building **
 ```python
 skills = {
     "Production ML": ["MLflow", "Azure ML", "Model Monitoring", "FAST-API", "A/B Testing"],
-    "LLM & AI": ["OpenAI API", "LangChain", "RAG", "Vector Search", "AutoGen"],
+    "LLM & AI": [ "RAG", "Vector Search", "AutoGen", "OpenAI", "LangChain"],
     "ML Frameworks": ["scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
     "Languages": ["Python", "R", "SQL", "NoSQL", "React (frontend)"],
-    "Cloud & Tools": ["Microsoft-Azure", "MongoDB", "Docker", "Git"],
+    "Cloud & Tools": ["Microsoft-Azure", "MongoDB", "Docker", "K8s", "Git"],
     "Data Viz": ["Grafana ", "Power BI", "Tableau", "Matplotlib", "Seaborn"],
     "Specialties": ["RAG Pipelines", "Recommendation Systems", "Churn Modeling"]
 }
