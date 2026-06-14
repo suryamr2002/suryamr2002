@@ -1,22 +1,30 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" alt="Coding animation" />
   
-  # 👋 Hi, I'm Surya M.R
+  # 👋 Surya M.R
   
-  ### Production Data Scientist | Building AI Systems That Drive Business Impact
+  ### Production AI Engineer • MCP • HITL Systems 
+  • Building AI Systems That Drive Business Impact
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/surya-m-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:suryamrsp.class1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <!-- <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a> -->
-  </p>
-</div>
+    <a href="https://www.linkedin.com/in/surya-m-r/"><img 
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:suryamrsp.class1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"/></a>
+    <!-- <a href="https://github.com/suryamr2002/langgraph-approval-hub"><img 
+  src="https://img.shields.io/github/stars/suryamr2002/langgraph-approval-hub?style=for-the-badge&logo=github&label=langgraph-approval-hub" 
+  alt="Stars"/></a>
+  </p> -->
+
+  </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Data Scientist** at **Kovai.co** with 2+ years of experience building **production ML systems** that solve real business problems. I don't just train models—I ship them to production, monitor them, and measure their impact.
+AI Engineer at Kovai.co with 3 years building production AI and LLM systems. I work across the full stack - classical ML pipelines, MLOps infrastructure, AI agents with Orchestration and autonomous HITL workflows.
+
+I don't just train models. I deploy them, monitor them, and wire them into agent workflows that actually run in production.
 
 <!--**Noteable projects:**
  - 🤖 **RAG Chatbot** → Optimized Pipeline,Reduced support tickets by **46%** and saved **$150K/year** (89% accuracy)
@@ -25,24 +33,24 @@ I'm a **Data Scientist** at **Kovai.co** with 2+ years of experience building **
 -->
 ---
 
-## 💼 What I'm Working On
+## 🔭 Currently Building
 
-🔭 **Currently:** Building production-grade LLM applications (RAG, vector search, Langchain, agentic workflows...)   
-💡 **Exploring:** Model Context Protocol (MCP), AutoGen frameworks  
+  - **[LangGraph Approval Hub](https://github.com/suryamr2002/langgraph-approval-hub)** (V2)
+  - **Nexus** - MCP toolkit for agentic customer support (in progress)
+  - Contributing to [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 
----
+  ---
 
 ## 🛠️ Tech Stack
 ```python
-skills = {
-    "Production ML": ["MLflow", "Azure ML", "Model Monitoring", "FAST-API", "A/B Testing"],
-    "LLM & AI": [ "RAG", "Vector Search", "AutoGen", "OpenAI", "LangChain"],
-    "ML Frameworks": ["scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
-    "Languages": ["Python", "R", "SQL", "NoSQL", "React (frontend)"],
-    "Cloud & Tools": ["Microsoft-Azure", "MongoDB", "Docker", "K8s", "Git"],
-    "Data Viz": ["Grafana ", "Power BI", "Tableau", "Matplotlib", "Seaborn"],
-    "Specialties": ["RAG Pipelines", "Recommendation Systems", "Churn Modeling"]
-}
+  {
+      "Agentic AI":      ["LangGraph", "LangChain", "AutoGen", "MCP", "HITL workflows", "Multi-agent orchestration"],
+      "LLM Engineering": ["RAG", "Vector Search", "Evals", "Prompt engineering", "Power BI"],
+      "Production-Ops":  ["Azure AI-Foundry", "MLflow", "Azure ML", "Prometheus", "Grafana", "FastAPI", "CI/CD", "Docker", "Kubernetes"],
+      "ML & DL":         ["scikit-learn", "XGBoost", "TensorFlow", "PyTorch", "A/B Testing"],
+      "Languages":       ["Python", "TypeScript", "SQL", "NoSQL", "PostgreSQL"],
+      "Cloud":           ["Azure", "Vercel", "Supabase", "MongoDB"],
+  }
 ```
 
 
@@ -59,35 +67,28 @@ skills = {
 
 ## 🏆 Featured Projects
 
-### 📈 [End-to-End Real-Time ML System with Full MLOps Pipeline](https://github.com/suryamr2002/Fraud-detection-MLops-with-CI-CD-integration)
-**Tech:** FAST-API, ML-Flow, Prometheus Metrics, Grafana , CI/CD Pipeline, Python, GridSearchCV, Feature Engineering  
-Production-ready fraud detection API with Kubernetes, auto-scaling, monitoring, and CI/CD
+⚡ LangGraph Approval Hub (https://github.com/suryamr2002/langgraph-approval-hub)
 
-**Impact:** Identified fraud transactions in large-volume customer transactions 1M+.
+  Stop AI agents from acting without permission. Human-in-the-loop approvals - real-time dashboard, audit log, Python SDK. Deploy free in 5
+  minutes.
 
----
-
-### 📈 [Customer Churn Prediction for Energy SMEs](https://github.com/suryamr2002/Customer-ChurnPrediction)
-**Tech:** XGBoost, Python, GridSearchCV, Feature Engineering  
-Developed predictive model achieving 82% recall in identifying high-risk churners through analysis of price sensitivity, usage patterns, and payment history.
-
-**Impact:** Enabled proactive retention strategies for high-value customer segments
+  TypeScript · Python · Next.js · Supabase · LangGraph · 119+ PyPI installs · Live Demo (https://langgraph-approval-hub.vercel.app)
 
 ---
 
-### 🎯 [A/B Testing Framework](https://github.com/suryamr2002/Marketing-Campaign-A-B-Testing)
-**Tech:** Python, Statistical Analysis, Power Analysis  
-Designed end-to-end experimentation workflow with statistical rigor, power analysis, and variance reduction techniques (CUPED).
+📈 End-to-End MLOps Pipeline (https://github.com/suryamr2002/Fraud-detection-MLops-with-CI-CD-integration)
 
-**Impact:** Validated personalization strategies showing significant conversion lift
+  Production fraud detection API with Kubernetes auto-scaling, Prometheus metrics, Grafana dashboards, and full CI/CD. Processes 1M+ transactions.
+
+  FastAPI · MLflow · Docker · K8s · Prometheus · Grafana
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Predicts Credit Card Defaults — Here’s What Shocked Me](https://medium.com/@SuryaMurugan/i-built-an-ai-that-predicts-credit-card-defaults-heres-what-shocked-me-1c4c43c212a9)
-- [🚀 Agentic AI vs Vibe Coding vs Coding APIs — What’s Shaping the Future of Development?](https://medium.com/@SuryaMurugan/agentic-ai-vs-vibe-coding-vs-coding-apis-whats-shaping-the-future-of-development-982d7414688f)
+- [I Built an AI That Predicts Credit Card Defaults - Here’s What Shocked Me](https://medium.com/@SuryaMurugan/i-built-an-ai-that-predicts-credit-card-defaults-heres-what-shocked-me-1c4c43c212a9)
+- [🚀 Agentic AI vs Vibe Coding vs Coding APIs - What’s Shaping the Future of Development?](https://medium.com/@SuryaMurugan/agentic-ai-vs-vibe-coding-vs-coding-apis-whats-shaping-the-future-of-development-982d7414688f)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -96,22 +97,20 @@ Designed end-to-end experimentation workflow with statistical rigor, power analy
 I'm always interested in:
 - 🤝 Collaborating on **production AI/ML/DL/DS projects**
 - 💡 Discussing **LLM applications** and **MLOps best practices**
-- 🎯 Exploring opportunities in **ML Engineering** and **Data Science**
+- 🎯 Exploring opportunities in **AI/ML Engineering**
 
 **Reach out:**
-- 📧 Email: suryamrsp.class1@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/surya-m-r](https://www.linkedin.com/in/surya-m-r/)
 
 ---
+  📌 At a glance
+  
+  OSS:        langgraph-approval-hub - 119+ PyPI installs  
+  Contrib:    langchain-ai/langgraph PR #8051 (merged)  
+  Impact:     $150K+ cost savings across production ML systems  
+  Scale:      10,000+ users served  
 
-## 📌 Quick Metrics
-```text
-📊 Production ML Systems Deployed: 4+
-💰 Business Impact Generated: $150K+ in cost savings
-👥 Users Served: 10,000+
-📈 Models in Production: 5+
-🎯 SLA Performance: 100% (3-day turnaround)
-```
+  ---
 
 
 <div align="center">
